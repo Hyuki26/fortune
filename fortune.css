@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(pink,aqua);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    
+}
+.button {
+    border-radius: 50%;
+}
