@@ -25,3 +25,14 @@ else {
 }
 }
 name();
+
+/*The understanding I got from the video for different between front-end and back-end. 
+think of it as in the restaurant. 
+The waitress(Front-end) who's getting an Orders from the Customer(End-users)
+to make the request to the chef(Back-end), so they could respond back to Customers through the waitress.
+
+Front-end is pretty much the language that manupilating back-end to get database that requested in order to deliver to the end-users.
+
+Another thing I got from video is when they talked about protocal,
+there is a different languages and we have to choose one that both know to communicate with each other between human and computer.
+*/
